@@ -16,7 +16,7 @@
    viewBox="0 0 230 230"
    sodipodi:docname="LIDSOLlogoColor.svg"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   inkscape:export-filename="/home/pablovc/Documentos/LIDSOLlogoColor.png"
+   inkscape:export-filename="/home/pablovc/Documentos/logo/LIDSOLlogoColor.png"
    inkscape:export-xdpi="1161.1639"
    inkscape:export-ydpi="1161.1639">
   <metadata
@@ -27,7 +27,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -46,8 +46,8 @@
      inkscape:window-height="703"
      id="namedview3774"
      showgrid="false"
-     inkscape:zoom="3.61"
-     inkscape:cx="66.650815"
+     inkscape:zoom="1.03"
+     inkscape:cx="23.990191"
      inkscape:cy="118.17651"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -130,4 +130,11 @@
      id="path4737"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccccsccccccccc" />
+  <rect
+     id="rect20"
+     width="230.09709"
+     height="231.06796"
+     x="0"
+     y="-1.0679612"
+     style="fill:none" />
 </svg>
