@@ -15,7 +15,7 @@
    height="230"
    viewBox="0 0 230 230"
    sodipodi:docname="LIDSOLlogoColor.svg"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    inkscape:export-filename="/home/pablovc/Documentos/LIDSOLlogoColor.png"
    inkscape:export-xdpi="1161.1639"
    inkscape:export-ydpi="1161.1639">
@@ -27,7 +27,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -42,13 +42,13 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="835"
+     inkscape:window-width="1024"
+     inkscape:window-height="703"
      id="namedview3774"
      showgrid="false"
-     inkscape:zoom="2.38"
-     inkscape:cx="117.81607"
-     inkscape:cy="108.36768"
+     inkscape:zoom="3.61"
+     inkscape:cx="66.650815"
+     inkscape:cy="118.17651"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -81,7 +81,7 @@
      style="fill:#0066ff;stroke:#0066ff;stroke-width:0.96428651;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <path
      style="fill:#0066ff;stroke:#0066ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 167.30337,75.280899 c 0,0 20.89888,3.033708 21.23596,28.651681 0.33707,25.61798 -17.97753,27.64045 -17.97753,27.64045 l 45.8427,-0.11236 c 0,0 4.09017,-1.52098 3.7154,-4.87669 -0.40218,-3.60109 -1.01878,-4.89859 -4.839,-5.12331 H 200.33708 V 80.337079 c 0,0 0.44944,-4.943821 -5.2809,-5.16854 -5.73034,-0.224719 -27.75281,0.11236 -27.75281,0.11236 z"
+     d="m 167.30337,75.280899 c 0,0 20.89888,3.033708 21.23596,28.651681 0.33707,25.61798 -17.97753,27.64045 -17.97753,27.64045 l 45.8427,-0.11236 c 0,0 3.41601,-0.95918 3.04124,-4.42725 -0.3893,-3.6025 -0.34462,-5.34803 -4.16484,-5.57275 H 200.33708 V 80.337079 c 0,0 0.44944,-4.943821 -5.2809,-5.16854 -5.73034,-0.224719 -27.75281,0.11236 -27.75281,0.11236 z"
      id="path4686"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="csccscccsc" />
@@ -97,14 +97,14 @@
        y="92.814453" /></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:9.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#757575;fill-opacity:1;stroke:none;"
+     style="font-style:normal;font-weight:normal;font-size:9.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#757575;fill-opacity:1;stroke:none"
      x="17.174515"
      y="147.45152"
      id="text4694"><tspan
        sodipodi:role="line"
        id="tspan4692"
        x="17.174515"
-       y="147.45152">Laboraqtorio de Investigación y Desarrollo</tspan><tspan
+       y="147.45152">Laboratorio de Investigación y Desarrollo</tspan><tspan
        sodipodi:role="line"
        x="17.174515"
        y="159.11819"
